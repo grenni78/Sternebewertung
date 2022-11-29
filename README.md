@@ -24,4 +24,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ### History
-This project should have become a platform for exchanging rating on search engines. I canceled it in a very early stage due to concerns regarding the legality.
+This customer project should have become a platform for exchanging rating on search engines. I canceled it in a very early stage due to concerns regarding the legality.

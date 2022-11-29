@@ -1,0 +1,10 @@
+{
+    "The :attribute must be at least :length characters and contain at least one uppercase character.": "Das Passwort muss mindestens :length Zeichen lang sein und mindestens einen Großbuchstaben enthalten.",
+    "The :attribute must be at least :length characters and contain at least one number.": "Das Passwort muss mindestens :length Zeichen lang sein und wenigstens eine Zahl beinhalten",
+    "The :attribute must be at least :length characters and contain at least one special character.": "Das Passwort muss mindestens :lenght Zeichen lang sein und mindestens ein Sonderzeichen beinhalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": "Das Passwort muss mindestens :length Zeichen lang sein, mindestens einen Großbuchstaben und eine Ziffer enthalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": "Das Passwort muss mindestens :length Zeichen lang sein, mindestens einen Großbuchstaben und ein Sonderzeichen enthalten.",
+    "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": "Das Passwort muss mindestens :length Zeichen lang sein, mindestens einen Großbuchstaben, ein Sonderzeichen und eine Ziffer enthalten.",
+    "The :attribute must be at least :length characters and contain at least one special character and one number.": "Das Passwort muss mindestens :length Zeichen lang sein, mindestens einen Großbuchstaben und eine Ziffer enthalten.",
+    "The :attribute must be at least :length characters.": "Das Passwort muss wenigstens :length Zeichen lang sein"
+}
